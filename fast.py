@@ -1,6 +1,5 @@
 from fastapi import FastAPI
 from main import tester
-from service import Service
 
 app = FastAPI()
 

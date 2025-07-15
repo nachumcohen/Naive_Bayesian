@@ -1,8 +1,8 @@
 import json
 
-from DataHandler import DataHandler
-from Tester import NaiveBayesClassifier
-from Train import NaiveBayesModel
+from Core.DataHandler import DataHandler
+from Test.Tester import NaiveBayesClassifier
+from Model.Train import NaiveBayesModel
 
 
 class Service:

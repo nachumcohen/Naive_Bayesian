@@ -1,5 +1,5 @@
 import os
-from service import Service
+from Core.service import Service
 
 def menu():
 
